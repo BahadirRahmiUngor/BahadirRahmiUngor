@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 📫 How to reach me **that's the neat part you don't :)**
+- 📫 How to reach me:  **That's the neat part you don't :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

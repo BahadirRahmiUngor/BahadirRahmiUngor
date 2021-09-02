@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bahadır Rahmi Üngör</h1>
-<h3 align="center">Mathematics Engineer / Lets just have some fun</h3>
+<h3 align="center">Hi 👋, I'm Bahadır Rahmi Üngör</h3>
 
 - 🌱 I’m currently learning **Kotlin**
 
